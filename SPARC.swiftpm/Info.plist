@@ -1,0 +1,3 @@
+{
+	"NSMicrophoneUsageDescription" = "SPARC needs microphone access to record voice reflections.";
+}
